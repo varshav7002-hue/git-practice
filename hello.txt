@@ -1,1 +1,4 @@
-hello hello
+Hello! This is my first GitHub project.
+
+I am learning Git and GitHub.
+This change is only on my practice branch.
